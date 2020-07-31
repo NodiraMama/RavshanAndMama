@@ -21,3 +21,4 @@ Feature: LoginFeature
       | execute  | automation |
       | admin    | admin      |
       | testing  | qa         |
+      |nodira    |nodira123   |
